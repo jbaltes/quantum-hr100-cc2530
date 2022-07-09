@@ -3,7 +3,7 @@
 quantum-hr100-cc2530 - fan controller board with mains power and zigbee
 
 quantum-hr100-cc2530 is a open source hardware board.
-It controls pendulum fan Quantum HR 100 over zigbee.
+It can controls pendulum fan Quantum HR 100 over zigbee.
 
 # Warning
 
@@ -85,3 +85,6 @@ CS#  5  6 SCLK
 RST# 7  8 MOSI
 VDD  9 10 MISO
 
+# License
+
+The hardware is licensed under CERN OHL v.1.2. See COPYING.hardware for the complete license.
